@@ -1,0 +1,14 @@
+dataLayer.push({
+  "event": "productClick",
+  "ecommerce": {
+    "click": {
+      "actionField": {
+        "list": "store_page"
+      },
+      "products": [{
+        "name": "primo",//הבר שהקליקו עליו,
+       "position":"1/2/3/4"//מיקום באנר הבר בדף חנות 
+      }]
+    }
+  }
+});
