@@ -1,0 +1,23 @@
+dataLayer.push({
+  "ecommerce": {
+    
+    "impressions": [{
+            "name": "primo",
+      "price": "4704",
+     
+      "category": "מסלול 4 שנים",
+      "position": 0,//המיקום משמאל  לימין//
+      "list": "compare_bars_page"
+    },
+	{
+      
+      "name": "primo connect",
+      "price": "4848",
+     "metric2" : "101",
+      "category": "מסלול 4 שנים",
+      "position": 1,
+      "list": "compare_bars_page"
+    },
+// עוד מוצרים יכנסו מתחת באותה צורת כתיבה
+],
+}});
