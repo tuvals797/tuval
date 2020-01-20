@@ -1,0 +1,14 @@
+dataLayer.push({
+  "event": "productClick",
+  "ecommerce": {
+    "click": {
+      "actionField": {
+        "list": "top_menu_procduct_page"
+      },
+      "products": [{
+        "name": "primo",//ערך דינמי –הבר עליו הקליקו ,
+         "position": "1/2/3/4" // מיקום המוצר בתפריט יהיה 1 משמאלו 2 וכך הלאה - ערך דינמי
+      }]
+    }
+  }
+});
