@@ -1,0 +1,22 @@
+dataLayer.push({
+  "ecommerce": {
+   
+    "impressions": [{
+      
+      "name": "primo",//שם המוצר המוצג בבאנר//
+      
+      "position": 0,//מיקום הבאנר 0 העליון ביותר//
+      "list": "store_page"
+    },
+    {
+      "name": "buuble plus",//שם המוצר המוצג בבאנר//
+      
+      "position": 1,//מיקום הבאנר 0 העליון ביותר//
+      "list": "store_page"
+    },
+    
+    ],
+    
+	// עוד מוצרים יכנסו מתחת באותה צורת כתיבה
+  }
+});
