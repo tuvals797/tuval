@@ -1,4 +1,5 @@
 dataLayer.push({
+"event" : "impressions",
   "ecommerce": {
    
     "impressions": [{
