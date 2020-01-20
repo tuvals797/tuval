@@ -1,0 +1,21 @@
+dataLayer.push({
+  "event": "checkout",
+  "ecommerce": {
+    "checkout": {
+      "actionField": {
+        "step": 6
+      },
+      "products": [{
+        
+        "name": "primo",//דינמי שם מוצר
+        "price": "4704",//דינמי מחיר בר
+"        metric2":"98" ,//דינמי מחיר חודשי    
+        "category": "מסלול 4 שנים",//דינמי מסלול 4 שנים
+        "variant": "אפור",//דינמי צבע בר
+ 
+        "quantity": 1//כמות
+      }]
+      
+    }
+  }
+});
