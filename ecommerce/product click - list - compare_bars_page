@@ -1,0 +1,17 @@
+dataLayer.push({
+  "event": "productClick",
+  "ecommerce": {
+    "click": {
+      "actionField": {
+        "list": "compare_bars_page"
+      },
+      "products": [{
+        "name": "primo",//הבר שהקליקו עליו,
+        "price" : "4704 ", // תשלום מלא
+        "metric2" : "98 ", // תשלום חודשי
+         "category": "מסלול 4 שנים",// "מסלול 4 שנים
+      "variant"  :"אדום" // אדום
+      }]
+    }
+  }
+});
