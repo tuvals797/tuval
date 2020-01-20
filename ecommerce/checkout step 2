@@ -1,0 +1,10 @@
+dataLayer.push({
+  'event': "checkout",
+  'ecommerce': {
+    'checkout': {
+      'actionField': {
+        'step': 2  //עמוד דף מוצר
+		}
+	}
+        }
+});
